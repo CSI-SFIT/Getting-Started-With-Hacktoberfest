@@ -6,6 +6,7 @@
 <b>Getting Started With Hacktoberfest With CSI</b>
 </p>
 
+<br>
 # Table of Contents
 * <a href="#What is Hacktoberfest?">What is Hacktoberfest?</a>
 * <a href="#Requirements to Enter">Requirements to Enter</a>
