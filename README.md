@@ -137,7 +137,7 @@ Not all treasures are material! This is a key milestone in your young career: op
 By putting on events such as these, it promotes and generates involvement in one's own community, whether it be online, in person. A great opportunity to poke around in the inner workings of major open-source libraries. And well formally introduce yourself to the world of open source by giving back.
 
 <p align="center">
-<img src="Images/Badge.png" alt="Badge Image" width="300" height="200">
+<img src="Images/Badge.png" alt="Badge Image" width="400" height="400">
 </p>
 
 ---
