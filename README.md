@@ -92,14 +92,14 @@ If the reviewers ask for changes, repeat steps 4 and 5 to add more commits to yo
 
 ### <a name="Let's get to work!">😄 Let's get to work!</a>
 
-Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**<br>
+Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**<br><br>
 It doesn’t need to be code. It can be even documentation or even a spelling fix but meaningful.<br>
 You will find plenty of issues labeled with [Hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues) or  [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen&type=Issues) etc. on Github. These will be the simple ones most probably and easy to fix.
 
 ------
 
 ### <a name="Qualified? Check to find out!">🥰 Qualified? Check to find out!</a>
-Once you’ve signed up for Hacktoberfest, you can check your progress on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
+Once you’ve signed up for Hacktoberfest, you can check your progress on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).<br><br>
 
 **Still have questions?** That's alright, check out the [FAQ](https://hacktoberfest.digitalocean.com/faq) section to learn more, go ***git*** it.
 
@@ -111,7 +111,7 @@ Hacktoberfest's plain objective is:
 > Support open source and earn a limited edition T-shirt!
 
 But, it’s not just about the t-shirts or stickers but about **supporting free and open source software**. It's about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always **plenty** for beginners too).
-
+<br><br>
 Making that first leap into open source is an intimidating endeavor. Knowing where to start is extremely challenging because of how open-ended open source can be. This is especially the case for junior developers like myself. So then, how _does_ one actually get started with open source?
 
 **Let's start at your first contribution shall we?**
@@ -137,7 +137,7 @@ A list of projects which have curated tasks specifically for new contributors. T
 
 ### <a name="#What Hacktoberfest Truly Means">🤨 What Hacktoberfest Truly Means</a>
 
-Not all treasures are material! This is a **key milestone** in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.<br>
+Not all treasures are material! This is a **key milestone** in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.<br><br>
 By putting on events such as these, it promotes and generates involvement in one's own community, whether it be online, in person. A great opportunity to poke around in the inner workings of major open-source libraries. And well, formally **introduce yourself to the world of open source by giving back**.
 
 <p align="center">
