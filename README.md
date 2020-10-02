@@ -23,7 +23,7 @@
 
 **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio, open to everyone in our global community!. Every October, Digital Ocean and GitHub ship out free Hacktoberfest shirts to thousands of people around the world. As long as you registered for Hacktoberfest, you’ll still get some free stickers in the mail. So it’s still worth registering, even if you’re too busy to participate.
 
-Whether you're a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+<br>Whether you're a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 [![Hacktoberfest 2020 Video](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=1e71e7e0)](https://hacktoberfest.digitalocean.com?wvideo=rrnq2hxoso)
 
@@ -32,9 +32,9 @@ Whether you're a developer, student learning to code, event host, or company of 
 ### <a name="Requirements to Enter">🧐 Requirements to Enter:</a>
 
 * Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
-You can sign up anytime between October 1 and October 31.
+<br>You can sign up anytime between October 1 and October 31.
 * You need a [GitHub](https://github.com/) account. 
-If you don’t have one yet, you can  [create one for free in just a few minutes](https://github.com/join).
+<br>If you don’t have one yet, you can  [create one for free in just a few minutes](https://github.com/join).
 * Four Pull requests must be submitted to  **any GitHub-hosted repositories/projects.**
 * The pull request must contain commits you made yourself.
 * Pull requests reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
@@ -46,15 +46,16 @@ So, you know how to use Git and have a GitHub account yourself. You have a [GitH
 
 **Creating a pull request**
 1. When you want to work on a GitHub project, the first step is to fork a repo.
-Use [our demo pull request repo](https://github.com/CSI-SFIT/Demo-Pull-Request-Repo) to try it out.
+<br>Use [our demo pull request repo](https://github.com/CSI-SFIT/Demo-Pull-Request-Repo) to try it out.
 
 <p align="center">
 <img src="Images/DemoPR.png" alt="DemoPR Image">
 </p>
 
-2. Once there, click on the **Fork** button in the top-right corner. This creates a new copy of my demo repo under your GitHub user account with a URL like:
+2. Once there, click on the **Fork** button in the top-right corner.
+<br>This creates a new copy of my demo repo under your GitHub user account with a URL like:
 `https://github.com/<YourUserName>/Demo-Pull-Request-Repo` <br>
-**The copy includes all the code, branches, and commits from the original repo.**
+<br>**The copy includes all the code, branches, and commits from the original repo.**
 <p align="center">
 <img src="Images/Forking.gif" alt="Fork gif">
 </p>
@@ -66,13 +67,14 @@ Use [our demo pull request repo](https://github.com/CSI-SFIT/Demo-Pull-Request-R
 `git checkout -b new_branch_for_new_feature`
 
 5. Create a new remote for the upstream repo with the command:
-`git remote add upstream https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
-In this case, "upstream repo" refers to the original repo you created your fork from.
-Now you can make changes to the code, commit and push them.
+<br>`git remote add upstream https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
+<br>In this case, "upstream repo" refers to the original repo you created your fork from.
+<br>Now you can make changes to the code, commit and push them.
 
 6. Once you push the changes to your repo, the **Compare & pull request** button will appear in GitHub.
 
-7. Open a pull request by clicking the **Create pull request** button. This allows the repo's maintainers to review your contribution. From here, they can merge it if it is good, or they may ask you to make some changes.
+7. Open a pull request by clicking the **Create pull request** button.
+<br>This allows the repo's maintainers to review your contribution. From here, they can merge it if it is good, or they may ask you to make some changes.
 
 **In summary**, if you want to contribute to a project, the simplest way is to:
 
@@ -90,9 +92,8 @@ If the reviewers ask for changes, repeat steps 4 and 5 to add more commits to yo
 
 ### <a name="Let's get to work!">😄 Let's get to work!</a>
 
-Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**
-It doesn’t need to be code. It can be even documentation or even a spelling fix but meaningful.
-
+Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**<br>
+It doesn’t need to be code. It can be even documentation or even a spelling fix but meaningful.<br>
 You will find plenty of issues labeled with [Hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues) or  [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen&type=Issues) etc. on Github. These will be the simple ones most probably and easy to fix.
 
 ------
