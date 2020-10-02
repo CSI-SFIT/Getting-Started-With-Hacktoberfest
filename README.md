@@ -1,6 +1,6 @@
 # ⚡  Getting Started With Hacktoberfest
 
-<img src="Images/Banner.png" alt="Banner Image">
+<img src="Images/Banner.gif" alt="Banner Image">
 
 <p align="center">
 <b>Getting Started With Hacktoberfest With CSI</b>
@@ -158,6 +158,16 @@ By putting on events such as these, it promotes and generates involvement in one
 
 **CSI SFIT Team 2020 - 2021 :**
 + Chairperson : [@Delicia Fernandes](https://github.com/deliciafernandes)
+
+**Social Media handles**
+---
+<div align="center">
+  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="mailto: " target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</div>
 
 <br>
 <p align="center">
