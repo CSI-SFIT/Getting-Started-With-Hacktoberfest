@@ -159,16 +159,6 @@ By putting on events such as these, it promotes and generates involvement in one
 **CSI SFIT Team 2020 - 2021 :**
 + Chairperson : [@Delicia Fernandes](https://github.com/deliciafernandes)
 
-**Social Media handles**
----
-<div align="center">
-  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-  <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="mailto: " target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-</div>
-
 <br>
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
@@ -176,3 +166,13 @@ By putting on events such as these, it promotes and generates involvement in one
          alt="csi_logo" width="300" height="200">
   </a>
 </p>
+
+<br>
+<div align="center">
+  <a href="https://www.instagram.com/csi_sfit/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://twitter.com/csi_sfit" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.facebook.com/csi.sfit" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+  <a href="https://www.youtube.com/channel/UC7fiMWl2n3BXDQCKk3blUMA" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
+  <a href="mailto: csi@sfit.ac.in" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+</div>
