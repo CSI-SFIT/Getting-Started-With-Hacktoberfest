@@ -16,6 +16,7 @@
 * <a href="#Qualified? Check to find out!">Qualified? Check to find out!</a>
 * <a href="#Newbie to Open Source?">Newbie to Open Source?</a>
 * <a href="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
+* <a href="https://github.com/deliciafernandes/Getting-Started-With-Hacktoberfest/tree/main/Meme%20Catalogue">Open Source Meme Catalogue</a>
 ---
 
 ### <a name="What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
@@ -135,8 +136,8 @@ A list of projects which have curated tasks specifically for new contributors. T
 
 ### <a name="#What Hacktoberfest Truly Means">🤨 What Hacktoberfest Truly Means</a>
 
-Not all treasures are material! This is a key milestone in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.
-By putting on events such as these, it promotes and generates involvement in one's own community, whether it be online, in person. A great opportunity to poke around in the inner workings of major open-source libraries. And well formally introduce yourself to the world of open source by giving back.
+Not all treasures are material! This is a **key milestone** in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.<br>
+By putting on events such as these, it promotes and generates involvement in one's own community, whether it be online, in person. A great opportunity to poke around in the inner workings of major open-source libraries. And well, formally **introduce yourself to the world of open source by giving back**.
 
 <p align="center">
 <img src="Images/Badge.png" alt="Badge Image" width="400" height="400">
