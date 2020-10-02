@@ -22,7 +22,7 @@
 Whether you're a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 [![Hacktoberfest 2020 Video](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=1e71e7e0)](https://hacktoberfest.digitalocean.com?wvideo=rrnq2hxoso)
-
+---
 ### <a name="Requirements to Enter">Requirements to Enter:</a>
 
 * Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
@@ -32,7 +32,7 @@ If you don’t have one yet, you can  [create one for free in just a few minutes
 * Four Pull requests must be submitted to  **any GitHub-hosted repositories/projects.**
 * The pull request must contain commits you made yourself.
 * Pull requests reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
-
+---
 ### <a name="How to make a Pull request">How to make a Pull request</a>
 
 So, you know how to use Git and have a GitHub account yourself. You have a [GitHub](https://github.com/) repo and can push to it. All is well. But how do you contribute to other people's GitHub projects? 
@@ -78,19 +78,19 @@ Now you can make changes to the code, commit and push them.
 7.  Click  **Create pull request**  to open a new pull request
 
 If the reviewers ask for changes, repeat steps 4 and 5 to add more commits to your pull request.
-
+---
 ### <a name="Let's get to work!">Let's get to work!</a>
 
 Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**
 It doesn’t need to be code. It can be even documentation or even a spelling fix but meaningful.
 
 You will find plenty of issues labeled with [Hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen&type=Issues) or  [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen&type=Issues) etc. on Github. These will be the simple ones most probably and easy to fix.
-
+------
 ### <a name="Qualified? Check to find out!">Qualified? Check to find out!</a>
 Once you’ve signed up for Hacktoberfest, you can check your progress on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
 
 **Still have questions?** That's alright, check out the [FAQ](https://hacktoberfest.digitalocean.com/faq) section to learn more, go ***git*** it.
-
+---
 ### <a name="Newbie to Open Source?">Newbie to Open Source?</a>
 
 Hacktoberfest's plain objective is:
@@ -118,7 +118,7 @@ A list of projects which have curated tasks specifically for new contributors. T
 **Extra Good Stuff you should look at:**
 - [5 ways to contribute to open source during Hacktoberfest](https://opensource.com/article/19/10/contribute-open-source-hacktoberfest)
 - Here’s [a more detailed guide to contributing to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source), if you’re feeling adventurous.
-
+---
 ### <a name="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
 
 Not all treasures are material! This is a key milestone in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.
@@ -127,7 +127,8 @@ By putting on events such as these, it promotes and generates involvement in one
 <p align="center">
 <img src="Images/Badge.png" alt="Badge Image">
 </p>
-
+---
+<br><br>
 **How to Contribute**
 ---
 
