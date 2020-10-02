@@ -1,4 +1,4 @@
-# **😋 Catalog of memes**
+# **😋 Open Source Meme Catalogue**
 
 <img src="Banner.png" alt="Banner Image" width="1920" height="280">
 
