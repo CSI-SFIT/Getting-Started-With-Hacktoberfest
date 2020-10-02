@@ -144,7 +144,6 @@ By putting on events such as these, it promotes and generates involvement in one
 
 ---
 
-<br><br>
 **How to Contribute**
 ---
 
