@@ -56,10 +56,10 @@ Use [our demo pull request repo](https://github.com/CSI-SFIT/Demo-Pull-Request-R
 `git clone https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
 
 4. Once the repo is cloned, you need to create a new branch by issuing the command:
-`git checkout  -b new_branch_for_new_feature`
+`git checkout -b new_branch_for_new_feature`
 
 5. Create a new remote for the upstream repo with the command:
-`git remote  add upstream https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
+`git remote add upstream https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
 In this case, "upstream repo" refers to the original repo you created your fork from.
 Now you can make changes to the code, commit and push them.
 
