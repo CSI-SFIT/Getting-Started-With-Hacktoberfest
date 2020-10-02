@@ -6,7 +6,7 @@
   Who doesn't like meme amirite? Here's a list you can contribute to and enjoy as well to save the best memes. It's all fun and games when it comes to <i>devs ranting</i><br><b>Couple of devs sharing their love for open source software and meme</b>, what could go wrong?😜
 </p>
 
-<table bordercolor="black" align="center">
+<table style="width:1920px; border: black" align="center">
   <tr>
       <th><img src="Memes/1.jpg" alt="1 Image" width="400" height="400"></th><br>
       <th><img src="Memes/2.jpg" alt="2 Image" width="400" height="400"></th><br>
