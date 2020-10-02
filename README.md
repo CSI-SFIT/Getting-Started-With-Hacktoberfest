@@ -7,13 +7,13 @@
 </p>
 
 # Table of Contents
-* <a href="#What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
-* <a href="#Requirements to Enter">🧐 Requirements to Enter</a>
-* <a href="#How to make a Pull request">🤭 How to make a Pull request</a>
-* <a href="#Let's get to work!">😄 Let's get to work!</a>
-* <a href="#Qualified? Check to find out!">🥰 Qualified? Check to find out!</a>
-* <a href="#Newbie to Open Source?">😌 Newbie to Open Source?</a>
-* <a href="#What Hacktoberfest Truly Means">🤨 What Hacktoberfest Truly Means</a>
+* <a href="#What is Hacktoberfest?">What is Hacktoberfest?</a>
+* <a href="#Requirements to Enter">Requirements to Enter</a>
+* <a href="#How to make a Pull request">How to make a Pull request</a>
+* <a href="#Let's get to work!">Let's get to work!</a>
+* <a href="#Qualified? Check to find out!">Qualified? Check to find out!</a>
+* <a href="#Newbie to Open Source?">Newbie to Open Source?</a>
+* <a href="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
 ---
 
 ### <a name="What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
@@ -153,7 +153,7 @@ By putting on events such as these, it promotes and generates involvement in one
 **Acknowledgements**
 ---
 
-**CSI SFIT Tech Team 2020 - 2021 :**
+**CSI SFIT Team 2020 - 2021 :**
 + Chairperson : [@Delicia Fernandes](https://github.com/deliciafernandes)
 
 <br>
