@@ -7,16 +7,16 @@
 </p>
 
 # Table of Contents
-* <a href="#What is Hacktoberfest?">What is Hacktoberfest?</a>
-* <a href="#Requirements to Enter">Requirements to Enter</a>
-* <a href="#How to make a Pull request">How to make a Pull request</a>
-* <a href="#Let's get to work!">Let's get to work!</a>
-* <a href="#Qualified? Check to find out!">Qualified? Check to find out!</a>
-* <a href="#Newbie to Open Source?">Newbie to Open Source?</a>
-* <a href="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
+* <a href="#What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
+* <a href="#Requirements to Enter">🧐 Requirements to Enter</a>
+* <a href="#How to make a Pull request">🤭 How to make a Pull request</a>
+* <a href="#Let's get to work!">😄 Let's get to work!</a>
+* <a href="#Qualified? Check to find out!">🥰 Qualified? Check to find out!</a>
+* <a href="#Newbie to Open Source?">😌 Newbie to Open Source?</a>
+* <a href="#What Hacktoberfest Truly Means">🤨 What Hacktoberfest Truly Means</a>
 ---
 
-### <a name="What is Hacktoberfest?">What is Hacktoberfest?</a>
+### <a name="What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
 
 **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio, open to everyone in our global community!. Every October, Digital Ocean and GitHub ship out free Hacktoberfest shirts to thousands of people around the world. As long as you registered for Hacktoberfest, you’ll still get some free stickers in the mail. So it’s still worth registering, even if you’re too busy to participate.
 
@@ -26,7 +26,7 @@ Whether you're a developer, student learning to code, event host, or company of 
 
 ---
 
-### <a name="Requirements to Enter">Requirements to Enter:</a>
+### <a name="Requirements to Enter">🧐 Requirements to Enter:</a>
 
 * Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
 You can sign up anytime between October 1 and October 31.
@@ -37,7 +37,7 @@ If you don’t have one yet, you can  [create one for free in just a few minutes
 * Pull requests reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt.
 ---
 
-### <a name="How to make a Pull request">How to make a Pull request</a>
+### <a name="How to make a Pull request">🤭 How to make a Pull request</a>
 
 So, you know how to use Git and have a GitHub account yourself. You have a [GitHub](https://github.com/) repo and can push to it. All is well. But how do you contribute to other people's GitHub projects? 
 
@@ -85,7 +85,7 @@ If the reviewers ask for changes, repeat steps 4 and 5 to add more commits to yo
 
 ---
 
-### <a name="Let's get to work!">Let's get to work!</a>
+### <a name="Let's get to work!">😄 Let's get to work!</a>
 
 Now all you gotta do is make four more pull requests to any open source project you want hosted on Github and contribute anything between **October 1 to October 31 midnight in 2020.**
 It doesn’t need to be code. It can be even documentation or even a spelling fix but meaningful.
@@ -94,14 +94,14 @@ You will find plenty of issues labeled with [Hacktoberfest](https://github.com/s
 
 ------
 
-### <a name="Qualified? Check to find out!">Qualified? Check to find out!</a>
+### <a name="Qualified? Check to find out!">🥰 Qualified? Check to find out!</a>
 Once you’ve signed up for Hacktoberfest, you can check your progress on the [Hacktoberfest website](https://hacktoberfest.digitalocean.com/).
 
 **Still have questions?** That's alright, check out the [FAQ](https://hacktoberfest.digitalocean.com/faq) section to learn more, go ***git*** it.
 
 ---
 
-### <a name="Newbie to Open Source?">Newbie to Open Source?</a>
+### <a name="Newbie to Open Source?">😌 Newbie to Open Source?</a>
 
 Hacktoberfest's plain objective is:
 > Support open source and earn a limited edition T-shirt!
@@ -131,7 +131,7 @@ A list of projects which have curated tasks specifically for new contributors. T
 
 ---
 
-### <a name="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
+### <a name="#What Hacktoberfest Truly Means">🤨 What Hacktoberfest Truly Means</a>
 
 Not all treasures are material! This is a key milestone in your young career: open source contributions! To get the opportunity to engage more deeply with  local developer community through a number of Hacktoberfest Meetup events as well as contribute for a greater cause.
 By putting on events such as these, it promotes and generates involvement in one's own community, whether it be online, in person. A great opportunity to poke around in the inner workings of major open-source libraries. And well formally introduce yourself to the world of open source by giving back.
