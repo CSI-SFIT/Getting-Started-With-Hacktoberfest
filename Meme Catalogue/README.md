@@ -38,16 +38,16 @@ Who doesn't like meme amirite? Here's a list you can contribute to and enjoy as 
       <th>Easy peasy</th>
   </tr>
   <tr>
-      <th><img src="Memes/9.jpg" alt="8 Image" width="400" height="400"></th><br>
       <th>It's Big Brain Time</th>
+      <th><img src="Memes/9.png" alt="9 Image" width="400" height="400"></th><br>
   </tr>
   <tr>
-      <th><img src="Memes/10.jpg" alt="8 Image" width="400" height="400"></th><br>
+      <th><img src="Memes/10.jpg" alt="10 Image" width="400" height="400"></th><br>
       <th>It iss What it isss</th>
   </tr>
   <tr>
-      <th><img src="Memes/11.jpg" alt="8 Image" width="400" height="400"></th><br>
       <th>Its never Too late....And I mean NEVERRR</th>
+      <th><img src="Memes/11.jpg" alt="11 Image" width="400" height="400"></th><br>
   </tr>
 </table>
 <br><br>
