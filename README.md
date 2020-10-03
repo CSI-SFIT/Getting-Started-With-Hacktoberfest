@@ -16,7 +16,7 @@
 * <a href="#Qualified? Check to find out!">Qualified? Check to find out!</a>
 * <a href="#Newbie to Open Source?">Newbie to Open Source?</a>
 * <a href="#What Hacktoberfest Truly Means">What Hacktoberfest Truly Means</a>
-* <a href="https://github.com/deliciafernandes/Getting-Started-With-Hacktoberfest/tree/main/Meme%20Catalogue">Open Source Meme Catalogue</a>
+* <a href="https://github.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/tree/main/Meme%20Cataloguee">Open Source Meme Catalogue</a>
 ---
 
 ### <a name="What is Hacktoberfest?">🤔 What is Hacktoberfest?</a>
