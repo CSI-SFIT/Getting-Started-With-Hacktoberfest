@@ -152,6 +152,7 @@ By putting on events such as these, it promotes and generates involvement in one
 1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Getting-Started-With-Hacktoberfest -b name_for_new_branch`.
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
+4. After Pull Request is accepted, check out your contribution feature in the <a href="#">CONTRIBUTORS.md File!</a>
 
 **Acknowledgements**
 ---
