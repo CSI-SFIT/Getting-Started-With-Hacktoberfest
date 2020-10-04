@@ -112,7 +112,7 @@ Hacktoberfest's plain objective is:
 
 But, it’s not just about the t-shirts or stickers but about **supporting free and open source software**. It's about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always **plenty** for beginners too).
 <br><br>
-Making that first leap into open source is an intimidating endeavor. Knowing where to start is extremely challenging because of how open-ended open source can be. This is especially the case for junior developers like myself. So then, how _does_ one actually get started with open source?
+Making that first leap into open source is an intimidating endeavor. Knowing where to start is extremely challenging because of how open-ended open source can be. This is especially the case for junior developers. So then, how _does_ one actually get started with open source?
 
 **Let's start at your first contribution shall we?**
 - [🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
