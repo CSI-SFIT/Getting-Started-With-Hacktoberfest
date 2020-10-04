@@ -67,7 +67,7 @@ So, you know how to use Git and have a GitHub account yourself. You have a [GitH
 `git checkout -b new_branch_for_new_feature`
 
 5. Create a new remote for the upstream repo with the command:
-<br>`git remote add upstream https://github.com/<YourUserName>/Demo-Pull-Request-Repo`
+<br>`git remote add upstream https://github.com/<OriginalUserName>/Demo-Pull-Request-Repo`
 <br>In this case, "upstream repo" refers to the original repo you created your fork from.
 <br>Now you can make changes to the code, commit and push them.
 
