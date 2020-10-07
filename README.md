@@ -31,7 +31,7 @@
 
 ### <a name="Requirements to Enter">🧐 Requirements to Enter:</a>
 
-* Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/sign_up/register).
+* Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/login).
 <br>You can sign up anytime between October 1 and October 31.
 * You need a [GitHub](https://github.com/) account. 
 <br>If you don’t have one yet, you can  [create one for free in just a few minutes](https://github.com/join).
