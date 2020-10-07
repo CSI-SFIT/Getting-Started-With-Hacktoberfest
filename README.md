@@ -162,7 +162,7 @@ By putting on events such as these, it promotes and generates involvement in one
 <br>
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
-    <img src="https://www.csi.sfit.ac.in/logo.png"
+    <img src="Images/CSI_Logo.png"
          alt="csi_logo" width="300" height="200">
   </a>
 </p>
