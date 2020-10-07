@@ -51,7 +51,7 @@ Who doesn't like meme amirite? Here's a list you can contribute to and enjoy as 
   </tr>
   <tr>
       <th>Everybody be like........</th>
-      <th><img src="Memes/hacktober.jpg" alt="11 Image" width="400" height="400"></th><br>
+      <th><img src="Memes/hacktober.jpg" alt="12 Image" width="400" height="400"></th><br>
   </tr>
 </table>
 <br><br>
